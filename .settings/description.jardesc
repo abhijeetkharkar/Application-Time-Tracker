@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/ApplicationTimeTracker.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ApplicationTimeTracker/.settings/description.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="/ApplicationTimeTracker/.settings/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/ApplicationTimeTracker/.classpath"/>
+        <file path="/ApplicationTimeTracker/.project"/>
+        <javaElement handleIdentifier="=ApplicationTimeTracker/src"/>
+    </selectedElements>
+</jardesc>
